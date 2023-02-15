@@ -1,0 +1,5 @@
+# Simulating-an-airport-traffic-control-operation
+<h1>Introduction</h1>
+This is project on Simulating An Airport Operation using modern c++ programming. Since airports have become very important nowadays, and airplanes are used on a daily basis in all countries. However, there are too many problems that occur at airports, especially if the airport is small and there is only one runway. Example of problems is, There could be a collision between planes, one plane wanting to land and the another wanting to take off at the same time. Therefore, there will be a huge crowed at the runway. Because of these problems, we decided to design this project. So, the purpose of this project is to control the traffic operation on the airport
+<h1> Problem statment </h1>
+The airport has one runway, the plane comes at random instants of time, there is priority for landing planes, The takeoff planes still wait more time until there’re no more landing planes, there is a maximum number of planes that can wait
